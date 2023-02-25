@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import './App.css';
+import { useDispatch } from 'react-redux';
 import Home from './pages/Home';
 import Details from './pages/Details';
-import { useDispatch } from 'react-redux';
 import { loadCountries } from './redux/countrySlice';
 
 function App() {
