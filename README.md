@@ -55,7 +55,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -99,14 +98,23 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running follow these simple example steps.
 
+### Prerequisites
+
+- A web browser
+- A code editor
+
+### Setup
+
+- Clone the repository using the following command: git clone https://github.com/brainskev/Covid19_Tracking_App.git
+
 ### Install
 
 Have NodeJS installed and follow the next steps
 
 ### Usage
 
-- npm i for installing dev dependecies
-- npm run build or npm start to see the project
+- `npm i` for installing dev dependecies
+- `npm run build` or `npm start` to see the project
 
 ### Run tests
 
@@ -160,7 +168,9 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Microverse
+- [Microverse](https://microverse.org)
+- [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) (Project Design from [Behance](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>))
+- [POSTMAN/Covid19 API](https://api.covid19api.com/summary)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
