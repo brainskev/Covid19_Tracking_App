@@ -88,7 +88,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Link](https://covid19-1.netlify.app/)
-- [video]([Live Link](https://www.loom.com/share/f4c879c364854b63a1a780fbb95c5cd5)
+- [video](https://www.loom.com/share/f4c879c364854b63a1a780fbb95c5cd5/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
