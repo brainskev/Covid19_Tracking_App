@@ -88,7 +88,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo will be available soon]()
+- [Live Link](https://covid19-1.netlify.app/)
+-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
